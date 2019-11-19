@@ -4,5 +4,5 @@ I will post some code from competitive programming and other small stuff not wor
 
 I've started doing some programming challenges on Codewars and HackerRank. You can find more about them on their respective folder.
 
-Codewars profile: https://www.codewars.com/users/Roger95
-HackerRank profile: https://www.hackerrank.com/Roger95
+- Codewars profile: https://www.codewars.com/users/Roger95
+- HackerRank profile: https://www.hackerrank.com/Roger95
